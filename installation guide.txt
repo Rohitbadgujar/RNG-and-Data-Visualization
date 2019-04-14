@@ -1,0 +1,12 @@
+Download Anaconda Navigator - https://anaconda.org/anaconda/anaconda-navigator
+
+Install Jupyter Notebook from Anaconda Navigator (https://jupyter.org/install)
+
+Create new file - python 3
+
+Open the source code file with .py extension.
+
+* Click on Run
+
+or
+* Open terminal from Jupyter Notebook run fileName.py
